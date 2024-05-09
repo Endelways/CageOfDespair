@@ -1,2 +1,2 @@
 Project Preview:
-![alt text](https://www.youtube.com/watch?v=mB9Ui2fuELk&list=PLmC0xaszzfCrRal7FEA6QkLLowZRyPG5K)
+[![Watch the video](https://img.youtube.com/vi/mB9Ui2fuELk?si=87at64HpD7lQmqws/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://youtu.be/mB9Ui2fuELk?si=87at64HpD7lQmqws))
